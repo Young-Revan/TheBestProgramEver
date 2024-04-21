@@ -10,7 +10,7 @@ namespace TheBestProgramEver
     {
         static void Main(string[] args)
         {
-            Console.Write("Дарова");
+            Console.Write("Дарова, GG WP");
             Console.ReadKey();
         }
     }
